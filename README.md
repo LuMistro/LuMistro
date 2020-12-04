@@ -8,11 +8,10 @@
 
 My name is Luiza. I'm Java and frontend developer
 
- - 🔭 I’m currently working on Systems Implant
- - 🌱 I’m currently learning Bootstrap + Vue.JS
- - 👯 I’m looking to collaborate on Strix
+ - 🔭 I am currently working on Systems Implant
+ - 🌱 I am currently learning Bootstrap + Vue.JS
+ - 👯 I am looking to open my company
  - :heart_eyes_cat: I'm a cat lover
- - 💬 Ask me about movies n games
  - 😄 Also UI Designer
  - :bowling: Fun fact: I'm terrible playing bowling
 
