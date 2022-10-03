@@ -11,7 +11,7 @@ My name is Luiza. I'm Java and frontend developer
  - 🔭 I am currently working on Systems Implant
  - 🌱 I am currently learning Bootstrap + Vue.JS
  - 👯 I am looking to open my company
- - :heart_eyes_cat: I'm a cat lover
+ - :heart_eyes_cat: I'm a cat person
  - 😄 Also UI Designer
  - :bowling: Fun fact: I'm terrible playing bowling
 
